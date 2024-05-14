@@ -9,7 +9,7 @@ Data Preprocessing
     Changed the data types of the columns "order_date" and "order_time" from text to date and time formats, respectively.
     Converted single-letter representations in the 'pizza_size' column into their corresponding full-word equivalents.
 
-### Power BI
+### Tableau
 
     Promoted headers for better data organization.
     Adjusted data types as needed.
